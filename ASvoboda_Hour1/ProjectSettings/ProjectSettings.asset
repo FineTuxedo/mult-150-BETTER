@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 594f5644872374e29beeed4d1a44a3ec
+  productGUID: 9d056f3e43aee461886ff2d3fa95c36c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: asvoboda_demo
+  productName: ASvoboda_Hour1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -721,10 +721,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: f9f9fb20-d4ad-445e-af7e-aa484dbdb720
+  cloudProjectId: df8d2aae-75e0-4b16-b603-6212bf210d39
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: asvoboda_demo
+  projectName: ASvoboda_Hour1
   organizationId: artistadamsv
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
