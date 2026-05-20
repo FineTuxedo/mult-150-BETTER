@@ -1,0 +1,1 @@
+/* firstly i changed the photo in the back to sometnhing i took myself. second i changed the name to "Tales of the Deep" which was the name of a seperate project i did for a seperate class. third i added instructions. fourth i added a fps prefab thing to the camera in the game scene so one can walk around a bit */

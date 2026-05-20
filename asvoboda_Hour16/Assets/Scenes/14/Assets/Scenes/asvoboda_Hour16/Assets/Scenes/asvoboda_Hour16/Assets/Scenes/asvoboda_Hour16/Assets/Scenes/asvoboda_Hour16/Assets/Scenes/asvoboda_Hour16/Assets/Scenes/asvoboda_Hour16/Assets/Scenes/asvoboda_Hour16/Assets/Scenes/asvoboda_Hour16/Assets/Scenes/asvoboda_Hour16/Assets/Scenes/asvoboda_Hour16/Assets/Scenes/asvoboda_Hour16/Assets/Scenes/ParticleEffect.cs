@@ -1,0 +1,1 @@
+/* 1 made the particles multiple colors, 2 made the particles "shrink" over time before resetting, 3 made collisions so it can interact with rigid bodies, 4 added gravity so the particles fall, 5 added  noise so they act kindas random  */
